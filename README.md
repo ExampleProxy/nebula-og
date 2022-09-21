@@ -11,7 +11,11 @@ Open Source proxy that bypasses web filters, supports many sites. In short, it's
 - Youtube
 - TikTok
 
-# FRONTEND COPYRIGHT
-THIS WAS REUPLOADED BY FORKSANDBALLS#00805
+# CREDITS
+THIS WAS REUPLOADED BY FORKSANDBALLS#0805
 ORIGINAL VERSION BY JANGO AND GREENYDEV AND THE NEBULA
-DISCORD SERVER
+DISCORD SERVER 
+
+# Updates
+I probably wont update this github alot so dont expect so many updates I found this on replit
+And ported it to github (HEROKU IS SUPPORTED)
